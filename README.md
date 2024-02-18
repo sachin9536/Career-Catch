@@ -1,6 +1,4 @@
-# JobHunt Bangladesh
-> Job Hunt - Bangladesh || This Website is for job seekers in Bangladesh
-> Live Demo [_Click Here_](https://jobhunt-bangladesh.vercel.app/) <!-- If you have the project hosted somewhere, include the link here. -->
+# Career Catch
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -36,8 +34,7 @@ List the ready features here:
 - Awesome feature 3
 
 
-## Screenshots
-![Example screenshot](./img/mockup.png)
+
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 
@@ -69,16 +66,6 @@ To do:
 - Feature to be added 1
 - Feature to be added 2
 
-
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- This project was based on [this tutorial](https://www.example.com).
-- Many thanks to...
-
-
-## Contact
-Created by [@emonahmed](https://www.emonahmed.com/) - feel free to contact me!
 
 
 <!-- Optional -->
