@@ -8,10 +8,10 @@ const NotFound = () => {
   return (
     <>
       <Head>
-        <title>Not Found - 404 || Job Hunt - Bangladesh</title>
+        <title>Not Found - 404 ||</title>
         <meta
           name="description"
-          content="Not Found - 404 || Job Hunt - Bangladesh || This Website is for job seekers in Bangladesh"
+          content="Not Found - 404 "
         />
         <link rel="icon" href="/favicon.png" />
       </Head>
